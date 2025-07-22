@@ -1,4 +1,5 @@
-<img width="946" height="595" alt="Микросервис-библиотека drawio (1)" src="https://github.com/user-attachments/assets/3667d9b3-8ccf-4ce6-9aa3-e2b85a3b3935" />
+
+<img width="1454" height="811" alt="Микросервис-библиотека drawio (2)" src="https://github.com/user-attachments/assets/5a704037-975c-4d8b-9bbc-66f2d07c0226" />
 
 # ⚙️ Общая архитектура
 ## Микросервисы
